@@ -1,7 +1,8 @@
 # Fighter Analysis Dashboard
 
-There are 4 tabs in my dashboard. Every Tabs give you unique information.
-basically my analysis is focus on different different weight division for fighters in both Mens and Womens categories.
+My analysis is focus on fighters of various weight division in both Mens and Womens categories.
+there are twelve weight division we can select weight division and fighters it shows you two graphs and one top five fighter table in that weight division which your selected.
+in third tab user are allow to select fighter, oppenent and weight division. in fourth tab you can find the source code of this shiny application.
 
 # To Run the Application run below code in your R-Studio
 runGitHub("R_Project_Shiny_Dashboard","vicky61992","master")
