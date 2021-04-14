@@ -4,7 +4,7 @@ There are 4 tabs in my dashboard. Every Tabs give you unique information.
 basically my analysis is focus on different different weight division for fighters in both Mens and Womens categories.
 
 # To Run the Application run below code in your R-Studio
-
+runGitHub("R_Project_Shiny_Dashboard","vicky61992","master")
 .
 
 
