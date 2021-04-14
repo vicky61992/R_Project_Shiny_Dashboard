@@ -1,7 +1,13 @@
 # Fighter Analysis Dashboard
 
-There are 4 tabs in my dashboard. 1st Tab give you basic information.
+There are 4 tabs in my dashboard. Every Tabs give you unique information.
 basically my analysis is focus on different different weight division for fighters in both Mens and Womens categories.
+
+# To Run the Application run below code in your R-Studio
+
+.
+
+
 
 
 
