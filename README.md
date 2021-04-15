@@ -7,7 +7,8 @@ In third tab user are allow to select fighter, oppenent and weight division.
 In fourth tab you can find the Github Repository URL of this shiny application.
 
 # To Run the Application run below codes in your R-Studio.
- ## first install the R package "devtools","elo","shinydashboard", "if not installed
+ ## first install the R package "devtools","elo","shinydashboard", "tidyverse" if not installed
+ Packages must install in your R-studio
  Run Below commonds first
  
  install.packages("shiny")
@@ -18,6 +19,10 @@ In fourth tab you can find the Github Repository URL of this shiny application.
  
  install.packages("shinydashboard")
  
+ install.packages("ggplot2)
+ 
+ install.packages("dplyr")
+ 
  library("shiny")
  
  library("elo")
@@ -26,7 +31,14 @@ In fourth tab you can find the Github Repository URL of this shiny application.
  
  library("shinydashboard")
  
+ library("ggplot2")
+ 
+ library("dplyr")
+ 
  runGitHub("R_Project_Shiny_Dashboard","vicky61992","master")
+ 
+ # Packages requires
+ 
 
 # Table Contents
 1. About
