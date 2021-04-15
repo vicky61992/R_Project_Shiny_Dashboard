@@ -1,14 +1,12 @@
-library(shiny)
-library(tidyverse)
-library(elo)
-library(shinydashboard)
-library(ggplot2)
-library(plotly)
-library(dplyr)
-require(elo)
 require(shiny)
+require(elo)
 require(ggplot2)
 require(dplyr)
+require(tidyverse)
+require(shinydashboard)
+
+
+
 
 elo_df <- read.csv("https://raw.githubusercontent.com/vicky61992/R_Project_Shiny_Dashboard/master/FileA.csv")
 df <- read.csv("https://raw.githubusercontent.com/vicky61992/R_Project_Shiny_Dashboard/master/FileB.csv")
@@ -56,7 +54,7 @@ ui <- dashboardPage(
       tabItem(tabName = 'about',
               h2('Fighter Club', align = 'center'),
               tags$p('It is the largest MMA promotion company in the world and features some of the 
-                     highest-level fighters in the sport on its roster.The UFC produces events worldwide
+                     highest-level fighters in the sport on its roster.It produces events worldwide
                      that showcase twelve weight divisions (eight mens divisions and four womens divisions) 
                      and abides by the Unified Rules of Mixed Martial Arts.', 
                      style = 'font-size: 120%;margin-left:2.5em;'),
