@@ -67,7 +67,7 @@ ui <- dashboardPage(
                     box(tableOutput("top_5_table")),
                     box(uiOutput("weight_class_selector_1")),
                     box(sliderInput(inputId = "v_k_1",
-                                    label = "K for ELO",
+                                    label = "select",
                                     min = 1, 
                                     max = 100,
                                     value = 20))
@@ -78,7 +78,7 @@ ui <- dashboardPage(
                     fluidRow(box(valueBoxOutput("fighter_card")), box(valueBoxOutput("opponent_card"))),
                     box(uiOutput("weight_class_selector_2")),
                     box(sliderInput("v_k_2",
-                                    label = "K for ELO",
+                                    label = "select",
                                     min = 1,
                                     max = 100,
                                     value = 20)))
