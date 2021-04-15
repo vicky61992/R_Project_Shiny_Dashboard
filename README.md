@@ -10,9 +10,13 @@ In fourth tab you can find the Github Repository URL of this shiny application.
  ## first install the R package "devtools","elo","shinydashboard" , if not installed
  Run Below commonds first
  
+ install.packages("shiny")
+ 
  install.packages("elo")
  
  install.packages("shinydashboard")
+ 
+ library("shiny")
  
  library("elo")
  
