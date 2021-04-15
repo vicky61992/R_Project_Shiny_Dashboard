@@ -25,6 +25,12 @@ In third tab user are allow to select fighter, oppenent and weight division. in 
 3. Fighter to Fighter comparision
 4. Source
 
+# Snippets from the App
+
+
+
+
+
 
 # What is covered by the Application
 The Following have been cover 
