@@ -3,7 +3,6 @@ require(elo)
 require(ggplot2)
 require(dplyr)
 require(tidyverse)
-require(shinydashboard)
 
 
 
