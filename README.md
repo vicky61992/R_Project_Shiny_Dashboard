@@ -1,9 +1,10 @@
 # Fighter Analysis Dashboard
 
-My analysis is mostly focus on fighters of various weight division in both Mens and Womens categories.
-In the dashboard there are twelve weight division, user can select weight class according to user choice.  
-It shows you two graphs and one top five fighter table in that weight division which your selected.
-In third tab user are allow to select fighter, oppenent and weight division. in fourth tab you can find the source code of this shiny application.
+My analysis is mostly focus on comparision of fighters on various weight division in both Mens and Womens categories.
+In the dashboard there are twelve weight division, user can select weight class according to thier choice.  
+It shows you two graphs and one table of top five fighter in selected weight class. 
+In third tab user are allow to select fighter, oppenent and weight division. 
+In fourth tab you can find the Github Repository URL of this shiny application.
 
 # To Run the Application run below code in your R-Studio
  # first install the R package "devtools","elo","shinydashboard" , if not installed
@@ -35,9 +36,10 @@ In third tab user are allow to select fighter, oppenent and weight division. in 
 # What is covered by the Application
 The Following have been cover 
 1. About - information about the sport
-2. Top Fighter in different weight category - It cover the visual represntation of Top 5 Fighters
+2. Top Fighter in different weight category - select weight class it shows you two graphs and one top 5 fighters table in selected weight category 
 3. Fighter and opponent comparision - Head to Head comparision of fighter and their opponent according weight class & shows the ability of both fighter and opponent in percentage.
 4. Source - In this tab you can find github repository where every data and codes are avialable.
+
 
 
 
@@ -47,9 +49,10 @@ I have two dataset in csv file format. In fileA there are 6 variables and 30864 
 Match Id- specific IDs of every matches , Date - Date of Match,fighter- name of fighter,opponent- name of opponent,winner - 1 & 0 , weight class - categories weight division.
 In fileB there are 76 variables and 812538 observation it is a huge file. some variables are same as fileA like MatchID,Fightername,Dates.This file give us maximum information about fighter and fights like location of fight, age of fighter, physical fitness of fighters.
 
+
 # Technology Used
 
-R-Studio
+R language (R-Studio)
 
 
 
