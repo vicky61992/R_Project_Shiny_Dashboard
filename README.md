@@ -17,12 +17,10 @@ runGitHub("R_Project_Shiny_Dashboard","vicky61992","master")
 
 # What is covered by the Application
 The Following have been cover 
-1. Overview
-2. Top Fighter in different weight category
-3. Fighter and opponent comparision
-
-
-
+1. About - information about the sport
+2. Top Fighter in different weight category - It cover the visual represntation of Top 5 Fighters
+3. Fighter and opponent comparision - Head to Head comparision of fighter and their opponent according weight class & shows the ability of both fighter and opponent in percentage.
+4. Source - In this tab you can find github repository where every data and codes are avialable.
 
 
 
