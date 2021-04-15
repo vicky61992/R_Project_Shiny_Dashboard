@@ -39,6 +39,12 @@ In fourth tab you can find the Github Repository URL of this shiny application.
  
  # Packages requires
  
+ install.packages("shiny")
+ install.packages("elo")
+ install.packages("tidyverse")
+ install.packages("shinydashboard")
+ install.packages("ggplot2)
+ install.packages("dplyr")
 
 # Table Contents
 1. About
