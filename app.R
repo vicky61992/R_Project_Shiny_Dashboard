@@ -47,8 +47,7 @@ ui <- dashboardPage(
             menuItem("Fighter to Fighter Comparison",
                      tabName = "Comparison_tab",
                      icon = icon('id-card')),
-            menuItem("Source code", icon = icon("code"), href = "https://github.com/vicky61992/R_Project_Shiny_Dashboard+
-                     ")
+            menuItem("Source code", icon = icon("code"), href = "https://github.com/vicky61992/R_Project_Shiny_Dashboard")
         )
     ),
     
