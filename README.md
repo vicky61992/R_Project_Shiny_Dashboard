@@ -6,7 +6,7 @@ It shows you two graphs and one top five fighter table in that weight division w
 In third tab user are allow to select fighter, oppenent and weight division. in fourth tab you can find the source code of this shiny application.
 
 # To Run the Application run below code in your R-Studio
- # first install the R package "devtools","elo","shinydashboard" . if not installed
+ # first install the R package "devtools","elo","shinydashboard" , if not installed
  Run Below commonds first
  
  install.packages("elo")
