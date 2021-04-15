@@ -37,7 +37,7 @@ In fourth tab you can find the Github Repository URL of this shiny application.
  
  runGitHub("R_Project_Shiny_Dashboard","vicky61992","master")
  
- # Packages requires
+ # Packages  must requires to run this apps
  
 install.packages("shiny")
 
