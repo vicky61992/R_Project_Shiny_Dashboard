@@ -27,7 +27,7 @@ In third tab user are allow to select fighter, oppenent and weight division. in 
 
 # Snippets from the App
 
-
+![shiny1](https://user-images.githubusercontent.com/55536334/114886738-1558cc00-9e08-11eb-97ec-69b843b6fedf.png)
 
 
 
