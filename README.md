@@ -8,10 +8,15 @@ In third tab user are allow to select fighter, oppenent and weight division. in 
 # To Run the Application run below code in your R-Studio
  # first install the R package "devtools","elo","shinydashboard" . if not installed
  Run Below commonds first
+ 
  install.packages("elo")
+ 
  install.packages("shinydashboard")
+ 
  library("elo")
+ 
  library("shinydashboard")
+ 
  runGitHub("R_Project_Shiny_Dashboard","vicky61992","master")
 
 # Table Contents
